@@ -7,7 +7,6 @@ Keys:
 - `event: str`: name of event (e.g. "1337UP LIVE CTF")
 - `task: str`: name of challenge (e.g. "Seahorse Hide'n'Seek")
 - `url: str`: URL to the writeup
-- `year: int`: year of the event
-- `text: str`: full writeup text
+- `content: str`: full writeup text
 - `categories: list[str]`: list of relevant categories (pwn, web, crypto, rev, misc, forensics)
 - `summary`: two-sentence summary of the writeup
